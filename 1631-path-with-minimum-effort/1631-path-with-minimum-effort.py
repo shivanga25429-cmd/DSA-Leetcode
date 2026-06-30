@@ -17,6 +17,8 @@ class Solution(object):
         ind = [(0,1),(0,-1),(1,0),(-1,0)]
         while pq:
             eff,row,col = heapq.heappop(pq)
+            if eff > dis[row][col]:
+                continue
             for k in range(4):
                 i = ind[k][0]+row
                 j = ind[k][1]+col
