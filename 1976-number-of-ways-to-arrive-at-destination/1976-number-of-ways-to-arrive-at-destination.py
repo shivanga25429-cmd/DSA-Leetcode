@@ -20,6 +20,8 @@ class Solution(object):
         dis[0] = 0
         while pq:
             time,curr = heapq.heappop(pq)
+            if curr == n-1:
+                return ways[curr]
             if time > dis[curr]:
                 continue
             for i in adj[curr]:
