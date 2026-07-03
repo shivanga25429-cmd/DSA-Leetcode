@@ -20,6 +20,8 @@ class Solution(object):
         dis[0] = 0
         while pq:
             time,curr = heapq.heappop(pq)
+            if time > dis[curr]:
+                continue
             for i in adj[curr]:
                 newtime = i[1]+time
                 if newtime< dis[i[0]]:
