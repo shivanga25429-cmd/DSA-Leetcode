@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0743-network-delay-time](https://github.com/shivanga25429-cmd/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivanga25429-cmd/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivanga25429-cmd/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivanga25429-cmd/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivanga25429-cmd/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
