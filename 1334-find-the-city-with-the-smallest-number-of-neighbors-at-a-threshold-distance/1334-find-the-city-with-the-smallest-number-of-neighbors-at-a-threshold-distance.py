@@ -1,37 +1,33 @@
+import heapq
 class Solution(object):
-    def findTheCity(self, n, edges, distanceThreshold):
-        """
-        :type n: int
-        :type edges: List[List[int]]
-        :type distanceThreshold: int
-        :rtype: int
-        """
-        dis = []
+    def findTheCity(self, n, edges, d):
+        adj = [[] for _ in range(n)]
+        ans , maxi = 0 , float('inf')
+        for i in range(len(edges)):
+            u , v , w = edges[i][0] , edges[i][1] , edges[i][2]
+            adj[u].append((v , w))
+            adj[v].append((u , w))
         for i in range(n):
-            arr =[float("inf")]*n
-            dis.append(arr)
-        for i in range(n):
-            dis[i][i] = 0
-        for src,dst,weight in edges:
-            dis[src][dst] = weight
-            dis[dst][src] = weight
-        for via in range(n):
-            for i in range(n):
-                for j in range(n):
-                    dis[i][j] = min(dis[i][j],dis[i][via]+ dis[via][j])
-        mini = n
-        i = n-1
-        ans = n-1
-        while i >=0:
-            count = 0
-            for j in range(n):
-                if dis[i][j] <=distanceThreshold:
-                    count += 1
-            if count<mini:
-                mini = count
+            dist = [float('inf')] * n
+            pq = []
+            heapq.heappush(pq , (0 , i , 0))
+            dist[i] = 0
+            cnt = 0
+            while pq:
+                dis , node , wt = heapq.heappop(pq)
+                if wt > dist[node] : continue
+                if wt > d : continue
+                cnt += 1
+                for newn , newd in adj[node]:
+                    if dist[newn] > newd + wt and newd + wt <= d:
+                        dist[newn] = newd + wt
+                        heapq.heappush(pq , (newd + wt , newn , dist[newn]))
+            if cnt <= maxi:
+                maxi = cnt
                 ans = i
-            i -= 1
         return ans
+                    
 
+            
         
         
