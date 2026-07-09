@@ -46,27 +46,26 @@ class Solution(object):
                             size[ru] += size[rv]
                             parent[rv] = ru
 
-        maxi = max(size)
+        maxi = 0
 
         for i in range(n):
             for j in range(n):
-                if not grid[i][j]:
-                    u = n * i + j
-                    unique = set()
-
-                    if i > 0 and grid[i - 1][j]:
-                        unique.add(find(u - n))
-                    if j > 0 and grid[i][j - 1]:
-                        unique.add(find(u - 1))
-                    if i < n - 1 and grid[i + 1][j]:
-                        unique.add(find(u + n))
-                    if j < n - 1 and grid[i][j + 1]:
-                        unique.add(find(u + 1))
-
-                    area = 1
-                    for k in unique:
-                        area += size[k]
-
-                    maxi = max(maxi, area)
-
+                if grid[i][j]:
+                    continue
+                u = n * i + j
+                unique = set()
+                if i > 0 and grid[i - 1][j]:
+                    unique.add(find(u - n))
+                if j > 0 and grid[i][j - 1]:
+                    unique.add(find(u - 1))
+                if i < n - 1 and grid[i + 1][j]:
+                    unique.add(find(u + n))
+                if j < n - 1 and grid[i][j + 1]:
+                    unique.add(find(u + 1))
+                area = 1
+                for k in unique:
+                    area += size[k]
+                maxi = max(maxi, area)
+        if not maxi:
+            return n*n
         return maxi
