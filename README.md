@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shivanga25429-cmd/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
