@@ -6,10 +6,12 @@ class Solution(object):
         """
         prev2 = 1
         prev = 1
-        for i in range(2,n+1):
+        i = 2
+        while i <n+1:
             curr = prev2 + prev
             prev2 = prev
             prev = curr
+            i += 1
         if n<=1:
             return 1
         return curr
