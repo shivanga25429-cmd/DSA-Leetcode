@@ -18,7 +18,9 @@ class Solution(object):
                 if dif<diff:
                     sumi = add
                     diff = dif
-                if add<=target:
+                if add == target:
+                    return add
+                elif add<=target:
                     j += 1
                 else:
                     k -= 1
