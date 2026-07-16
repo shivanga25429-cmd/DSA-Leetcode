@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivanga25429-cmd/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shivanga25429-cmd/DSA/tree/master/0198-house-robber) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivanga25429-cmd/DSA/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivanga25429-cmd/DSA/tree/master/0070-climbing-stairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivanga25429-cmd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
