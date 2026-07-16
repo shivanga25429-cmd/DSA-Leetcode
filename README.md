@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/shivanga25429-cmd/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0213-house-robber-ii) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
 | [0778-swim-in-rising-water](https://github.com/shivanga25429-cmd/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivanga25429-cmd/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivanga25429-cmd/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shivanga25429-cmd/DSA/tree/master/0198-house-robber) |
