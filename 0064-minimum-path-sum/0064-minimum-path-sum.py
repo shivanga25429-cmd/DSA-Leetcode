@@ -6,17 +6,13 @@ class Solution(object):
         """
         m = len(grid)
         n = len(grid[0])
-        prev = [grid[0][0]]
         for i in range(1,n):
-            prev.append(grid[0][i] + prev[i-1])
+            grid[0][i] += grid[0][i-1]
+        
         for i in range(1,m):
-            curr = [0]*n
-            for j in range(n):
-                x = float("inf")
-                if j>0:
-                    x = grid[i][j] + curr[j-1]
-                y = grid[i][j] + prev[j]
-                curr[j] = min(x,y)
-            prev = curr[::]
-        return prev[-1]
+            grid[i][0] += grid[i-1][0]
+            for j in range(1,n):
+                grid[i][j] = min(grid[i][j]+ grid[i-1][j], grid[i][j]+ grid[i][j-1] )
+        return grid[-1][-1]
+
         
