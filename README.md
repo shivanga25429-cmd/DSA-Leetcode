@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/shivanga25429-cmd/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivanga25429-cmd/DSA/tree/master/0827-making-a-large-island) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivanga25429-cmd/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -201,8 +203,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
