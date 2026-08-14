@@ -5,24 +5,26 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+
         tsum = sum(nums)
+        if tsum-abs(target)<0 or (target+tsum)%2 != 0:
+            return 0
         dp = []
         for _ in nums:
-            arr = [-1]*(tsum+1)
+            arr = [0]*(tsum+1)
             dp.append(arr)
-        def backtrack(ind,sumi):
-            if ind == len(nums):
-                if 2*sumi - tsum == target:
-                    return 1
-                else:
-                    return 0
-            elif dp[ind][sumi] != -1:
-                return dp[ind][sumi]
-            pick = backtrack(ind+1,sumi+nums[ind])
-            npick = backtrack(ind+1,sumi)
-            dp[ind][sumi] = pick + npick
-            return pick + npick
-        return backtrack(0,0)
+        dp[0][0] += 1
+        dp[0][nums[0]] += 1
+        rtarget = (target+tsum)//2
+        for i in range(1,len(nums)):
+            for j in range(tsum+1):
+                dp[i][j] += dp[i-1][j]
+                if nums[i]<=j:
+                    dp[i][j] += dp[i-1][j-nums[i]]
+        return dp[-1][rtarget]
+
+
+        
 
 
                 
