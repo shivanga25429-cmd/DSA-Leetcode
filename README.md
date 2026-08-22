@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/shivanga25429-cmd/DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivanga25429-cmd/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivanga25429-cmd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivanga25429-cmd/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
