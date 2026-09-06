@@ -40,7 +40,8 @@ class Solution(object):
         while j > 0:
             ans.append(str2[j-1])
             j -= 1
-        return "".join(ans[::-1])
+        ans.reverse()
+        return "".join(ans)
 
 
 
