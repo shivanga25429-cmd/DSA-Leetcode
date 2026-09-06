@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivanga25429-cmd/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
