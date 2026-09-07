@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shivanga25429-cmd/DSA/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shivanga25429-cmd/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/shivanga25429-cmd/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/shivanga25429-cmd/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shivanga25429-cmd/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivanga25429-cmd/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivanga25429-cmd/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shivanga25429-cmd/DSA/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivanga25429-cmd/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivanga25429-cmd/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 ## Number Theory
 |  |
 | ------- |
@@ -245,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
