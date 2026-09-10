@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1192-critical-connections-in-a-network](https://github.com/shivanga25429-cmd/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivanga25429-cmd/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivanga25429-cmd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivanga25429-cmd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivanga25429-cmd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
