@@ -141,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/shivanga25429-cmd/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivanga25429-cmd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/shivanga25429-cmd/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivanga25429-cmd/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shivanga25429-cmd/DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
