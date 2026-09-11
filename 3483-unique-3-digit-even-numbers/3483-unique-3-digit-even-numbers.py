@@ -6,17 +6,21 @@ class Solution(object):
         """
         ans = set()
         n = len(digits)
-        for i in range(n):
-            for j in range(n):
-                for k in range(n):
-                    if i == j or j == k or i == k:
-                        continue
-                    if digits[i] == 0:
-                        continue
-                    if digits[k] % 2 != 0:
-                        continue
-                    num = digits[i] * 100 + digits[j] * 10 + digits[k]
-                    ans.add(num)
+        used = [False]*len(digits)
+        def backtrack(ind,no):
+            if no//100 !=0:
+                if no%2 == 0:
+                    ans.add(no)
+                return
+            if ind>=n:
+                return
+            for i in range(n):
+                if not used[i]:
+                    used[i] = True
+                    backtrack(ind+1,no*10+digits[i])
+                    used[i] = False
+        backtrack(0,0)
         return len(ans)
+
 
         
