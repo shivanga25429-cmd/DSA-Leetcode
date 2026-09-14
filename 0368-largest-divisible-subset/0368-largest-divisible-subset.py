@@ -11,7 +11,7 @@ class Solution(object):
         nums.sort()
         for i in range(n):
             for j in range(i):
-                if nums[i]>nums[j] and nums[i]%nums[j] ==0:
+                if nums[i]%nums[j] ==0 and nums[i]>nums[j]:
                     if dp[j]+1>dp[i]:
                         dp[i] = dp[j]+1
                         h[i] = j
