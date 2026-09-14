@@ -1,34 +1,25 @@
 class Solution(object):
     def longestStrChain(self, words):
-        n = len(words)
-        dp = [1] * n
-
+        """
+        :type words: List[str]
+        :rtype: int
+        """
         words.sort(key=len)
 
-        for i in range(n):
-            for j in range(i):
-                n1 = len(words[j])   # shorter
-                n2 = len(words[i])   # longer
+        dp = {}
 
-                if n1 + 1 == n2 and dp[i] < 1 + dp[j]:
-                    check = True
-                    valid = True
-                    p = 0   # longer
-                    q = 0   # shorter
+        ans = 1
 
-                    while p < n2 and q < n1:
-                        if words[i][p] != words[j][q]:
-                            if check:
-                                check = False
-                                p += 1       # skip extra char
-                            else:
-                                valid = False
-                                break
-                        else:
-                            p += 1
-                            q += 1
+        for word in words:
+            dp[word] = 1
 
-                    if valid:
-                        dp[i] = 1 + dp[j]
+            # Remove one character to find possible predecessor
+            for i in range(len(word)):
+                prev = word[:i] + word[i + 1:]
 
-        return max(dp)
+                if prev in dp:
+                    dp[word] = max(dp[word], dp[prev] + 1)
+
+            ans = max(ans, dp[word])
+
+        return ans
