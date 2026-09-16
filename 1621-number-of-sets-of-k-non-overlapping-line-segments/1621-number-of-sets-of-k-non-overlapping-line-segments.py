@@ -5,20 +5,23 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        dp = []
-        for i in range(n+1):
-            dp.append([])
+        prev = []
+        for j in range(2):
+            arr = [1]+[0]*(k)
+            prev.append(arr)
+        for ind in range(1,n+1):
+            curr = []
             for j in range(2):
                 arr = [1]+[0]*(k)
-                dp[i].append(arr)
-        for ind in range(1,n+1):
+                curr.append(arr)
             for allow in range(2):
                 for l in range(1,k+1):
                     if allow:
-                        dp[ind][allow][l] = max(dp[ind][allow][l], dp[ind][0][l-1] + dp[ind-1][1][l])
+                        curr[allow][l] = max(curr[allow][l], curr[0][l-1] + prev[1][l])
                     else:
-                        dp[ind][allow][l] = max(dp[ind][allow][l], dp[ind-1][1][l]  + dp[ind-1][0][l])
-        return (dp[-1][0][-1])%(10**9+7)
+                        curr[allow][l] = max(curr[allow][l], prev[1][l]  + prev[0][l])
+            prev = curr
+        return (prev[0][-1])%(10**9+7)
 
             
         
