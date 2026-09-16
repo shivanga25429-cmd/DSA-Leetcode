@@ -6,23 +6,19 @@ class Solution(object):
         :rtype: int
         """
         dp = []
-        for i in range(n):
+        for i in range(n+1):
             dp.append([])
             for j in range(2):
-                arr = [-1]*(k+1)
+                arr = [1]+[0]*(k)
                 dp[i].append(arr)
-        def backtrack(ind,allow,l):
-            if l ==0:
-                return 1
-            if ind==n:
-                return 0
-            if dp[ind][allow][l]!=-1:
-                return dp[ind][allow][l]
-            if allow:
-                dp[ind][allow][l] = max(dp[ind][allow][l], backtrack(ind+1,0,l) + backtrack(ind+1,1,l))
-            else:
-                dp[ind][allow][l] = max(dp[ind][allow][l], backtrack(ind,1,l-1)  + backtrack(ind+1,0,l))
-            return dp[ind][allow][l]
-        return backtrack(0,1,k)%(10**9+7)
+        for ind in range(1,n+1):
+            for allow in range(2):
+                for l in range(1,k+1):
+                    if allow:
+                        dp[ind][allow][l] = max(dp[ind][allow][l], dp[ind][0][l-1] + dp[ind-1][1][l])
+                    else:
+                        dp[ind][allow][l] = max(dp[ind][allow][l], dp[ind-1][1][l]  + dp[ind-1][0][l])
+        return (dp[-1][0][-1])%(10**9+7)
+
             
         
