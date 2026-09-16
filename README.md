@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/shivanga25429-cmd/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivanga25429-cmd/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanga25429-cmd/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivanga25429-cmd/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Graph Theory
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/shivanga25429-cmd/DSA/tree/master/0368-largest-divisible-subset) |
 | [0836-rectangle-overlap](https://github.com/shivanga25429-cmd/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanga25429-cmd/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivanga25429-cmd/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivanga25429-cmd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanga25429-cmd/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
 |  |
 | ------- |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivanga25429-cmd/DSA/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanga25429-cmd/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
