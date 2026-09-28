@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shivanga25429-cmd/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivanga25429-cmd/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanga25429-cmd/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanga25429-cmd/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -332,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shivanga25429-cmd/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/shivanga25429-cmd/DSA/tree/master/0595-big-countries) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanga25429-cmd/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanga25429-cmd/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
