@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivanga25429-cmd/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivanga25429-cmd/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shivanga25429-cmd/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivanga25429-cmd/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
+| [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivanga25429-cmd/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
