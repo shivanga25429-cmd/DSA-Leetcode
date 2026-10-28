@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shivanga25429-cmd/DSA/tree/master/0120-triangle) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/shivanga25429-cmd/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0064-minimum-path-sum) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
