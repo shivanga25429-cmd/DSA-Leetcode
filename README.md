@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/shivanga25429-cmd/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/shivanga25429-cmd/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivanga25429-cmd/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivanga25429-cmd/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shivanga25429-cmd/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivanga25429-cmd/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
 | [0368-largest-divisible-subset](https://github.com/shivanga25429-cmd/DSA/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -345,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanga25429-cmd/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
