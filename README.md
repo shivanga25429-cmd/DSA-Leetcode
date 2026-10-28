@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanga25429-cmd/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/shivanga25429-cmd/DSA/tree/master/0368-largest-divisible-subset) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivanga25429-cmd/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Biconnected Component
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/shivanga25429-cmd/DSA/tree/master/0016-3sum-closest) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivanga25429-cmd/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Trie
 |  |
 | ------- |
