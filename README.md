@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivanga25429-cmd/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Trie
 |  |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
