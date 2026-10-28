@@ -5,11 +5,18 @@ class Solution(object):
         :type coins: int
         :rtype: int
         """
-        costs.sort()
-        count = 0
-        for i in costs:
-            if coins>=i:
-                count += 1
-                coins -= i
-        return count
+        freq = [0] * (max(costs) + 1)
+        for c in costs:
+            freq[c] += 1
+
+        bars = 0
+        for price in range(1, len(freq)):
+            if freq[price] == 0:
+                continue
+            if coins < price:
+                break
+            count = min(freq[price], coins // price)
+            bars += count
+            coins -= count * price
+        return bars
             
