@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shivanga25429-cmd/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/shivanga25429-cmd/DSA/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanga25429-cmd/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivanga25429-cmd/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shivanga25429-cmd/DSA/tree/master/0846-hand-of-straights) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanga25429-cmd/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
