@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/shivanga25429-cmd/DSA/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/shivanga25429-cmd/DSA/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
+| [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/shivanga25429-cmd/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shivanga25429-cmd/DSA/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/shivanga25429-cmd/DSA/tree/master/0846-hand-of-straights) |
+| [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shivanga25429-cmd/DSA/tree/master/0846-hand-of-straights) |
+| [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -396,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
