@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-two-city-scheduling](https://github.com/shivanga25429-cmd/DSA/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivanga25429-cmd/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/shivanga25429-cmd/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivanga25429-cmd/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivanga25429-cmd/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/shivanga25429-cmd/DSA/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shivanga25429-cmd/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shivanga25429-cmd/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivanga25429-cmd/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
