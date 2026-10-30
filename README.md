@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/shivanga25429-cmd/DSA/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0518-coin-change-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shivanga25429-cmd/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/shivanga25429-cmd/DSA/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivanga25429-cmd/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/shivanga25429-cmd/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/shivanga25429-cmd/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/shivanga25429-cmd/DSA/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivanga25429-cmd/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shivanga25429-cmd/DSA/tree/master/0763-partition-labels) |
