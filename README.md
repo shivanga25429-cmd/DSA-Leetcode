@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/shivanga25429-cmd/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/shivanga25429-cmd/DSA/tree/master/1338-reduce-array-size-to-the-half) |
+| [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivanga25429-cmd/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivanga25429-cmd/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/shivanga25429-cmd/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/shivanga25429-cmd/DSA/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivanga25429-cmd/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/shivanga25429-cmd/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/shivanga25429-cmd/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivanga25429-cmd/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivanga25429-cmd/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/shivanga25429-cmd/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanga25429-cmd/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivanga25429-cmd/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shivanga25429-cmd/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
